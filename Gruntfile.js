@@ -74,10 +74,10 @@ grunt.initConfig({
 
                 {'build/menus.css': [
                     'build/menus-core.css',
-                    'build/menus-horizontal.css',
-                    'build/menus-dropdown.css',
-                    'build/menus-scrollable.css',
-                    'build/menus-skin.css',
+                    'build/menus-horizontal.css'
+                    // 'build/menus-dropdown.css',
+                    // 'build/menus-scrollable.css',
+                    // 'build/menus-skin.css'
                 ]},
 
                 // Rollups
