@@ -74,7 +74,7 @@ grunt.initConfig({
 
                 {'build/menus-nr.css': [
                     'build/menus-core.css',
-                    'build/menus.css',
+                    // 'build/menus.css',
                     'build/menus-paginator.css'
                 ]},
 
