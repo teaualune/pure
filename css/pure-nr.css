@@ -603,6 +603,8 @@ table {
     /* IE10 uses display: flexbox */
     display: -ms-flexbox;
     -ms-flex-flow: row wrap;
+
+    box-sizing: border-box;
 }
 
 /* Opera as of 12 on Windows needs word-spacing.
@@ -622,6 +624,7 @@ table {
     word-spacing: normal;
     vertical-align: top;
     text-rendering: auto;
+    box-sizing: border-box;
 }
 
 /*
@@ -685,6 +688,7 @@ this the same font stack that Normalize.css sets for the `body`.
     word-spacing: normal;
     vertical-align: top;
     text-rendering: auto;
+    box-sizing: border-box;
 }
 
 .pure-u-1-24 {
