@@ -37,6 +37,8 @@
     /* IE10 uses display: flexbox */
     display: -ms-flexbox;
     -ms-flex-flow: row wrap;
+
+    box-sizing: border-box;
 }
 
 /* Opera as of 12 on Windows needs word-spacing.
@@ -56,6 +58,7 @@
     word-spacing: normal;
     vertical-align: top;
     text-rendering: auto;
+    box-sizing: border-box;
 }
 
 /*
