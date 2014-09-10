@@ -58,6 +58,7 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
         word-spacing: normal;
         vertical-align: top;
         text-rendering: auto;
+        box-sizing: border-box;
     }
 
     .pure-u-sm-1-24 {
@@ -272,6 +273,7 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
         word-spacing: normal;
         vertical-align: top;
         text-rendering: auto;
+        box-sizing: border-box;
     }
 
     .pure-u-md-1-24 {
@@ -486,6 +488,7 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
         word-spacing: normal;
         vertical-align: top;
         text-rendering: auto;
+        box-sizing: border-box;
     }
 
     .pure-u-lg-1-24 {
@@ -700,6 +703,7 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
         word-spacing: normal;
         vertical-align: top;
         text-rendering: auto;
+        box-sizing: border-box;
     }
 
     .pure-u-xl-1-24 {
